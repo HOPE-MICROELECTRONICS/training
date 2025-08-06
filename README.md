@@ -37,7 +37,7 @@ You can find the full set of presentation slides, documentation, and supporting 
 
 ## 🙌 Get Involved
 
-We appreciate your participation and interest in HopeRF solutions. If you have any questions, feel free to open an issue or contact us sales@hoperf.com directly. Let’s keep building the future of wireless together!
+We appreciate your participation and interest in HopeRF solutions. If you have any questions, feel free to open an issue or contact us directly. Let’s keep building the future of wireless together!
 
 📧 **Contact us:** [sales@hoperf.com](mailto:sales@hoperf.com)
 
