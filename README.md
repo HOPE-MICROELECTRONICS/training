@@ -24,7 +24,7 @@ This event brought together industry leaders, engineers, developers, and busines
 | **LoRa** | [Watch here](https://www.youtube.com/watch?v=Ny3lf7eRJEU) |
 | **Bluetooth** | [Watch here](https://www.youtube.com/watch?v=JuvTlYeUOJQ) |
 | **Sensor** | [Watch here](https://www.youtube.com/watch?v=hHoG_lCx51c) |
-| **Digital Isolator** | [Watch here](https://www.youtube.com/watch?v=GbRpjYB_DRM) |
+| **Digital Isolator** | [Watch here](https://www.youtube.com/watch?v=EmYpOogU7Lc) |
 | **Matter** | [Watch here](https://www.youtube.com/watch?v=Ofj3je62vAE) |
 
 ---
