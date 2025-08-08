@@ -20,12 +20,12 @@ This event brought together industry leaders, engineers, developers, and busines
 
 | Topic | YouTube Link |
 |-------|--------------|
-| **Sub-G** | [Watch here](https://www.youtube.com/watch?v=omUvmrRVkrA) |
-| **LoRa** | [Watch here](https://www.youtube.com/watch?v=Ny3lf7eRJEU) |
-| **Bluetooth** | [Watch here](https://www.youtube.com/watch?v=JuvTlYeUOJQ) |
-| **Sensor** | [Watch here](https://www.youtube.com/watch?v=hHoG_lCx51c) |
-| **Digital Isolator** | [Watch here](https://www.youtube.com/watch?v=EmYpOogU7Lc) |
-| **Matter** | [Watch here](https://www.youtube.com/watch?v=Ofj3je62vAE) |
+| **Sub-G** | [Watch here](https://www.youtube.com/watch?v=omUvmrRVkrA) | [Presentation](https://github.com/HOPE-MICROELECTRONICS/training/blob/main/ConnectWithHopeRF_2025/HopeRF%20Sub-1G%20Products%20Introduction-v1.0.pdf)
+| **LoRa** | [Watch here](https://www.youtube.com/watch?v=Ny3lf7eRJEU) | [Presentation](https://github.com/HOPE-MICROELECTRONICS/training/blob/main/ConnectWithHopeRF_2025/HOPERF%20LoRa%26Sub-1%20GHz%20Soution%20Introduction%20-%20EN.pdf)
+| **Bluetooth** | [Watch here](https://www.youtube.com/watch?v=JuvTlYeUOJQ) | [Presentation](https://github.com/HOPE-MICROELECTRONICS/training/blob/main/ConnectWithHopeRF_2025/HopeRF%20Bluetooth%20Product%20Introduction_v1.2.pdf)
+| **Sensor** | [Watch here](https://www.youtube.com/watch?v=hHoG_lCx51c) | [Presentation](https://github.com/HOPE-MICROELECTRONICS/training/blob/main/ConnectWithHopeRF_2025/HOPERF%C2%A0Sensor%C2%A0Products%C2%A0Introduction_v1.0.pdf)
+| **Digital Isolator** | [Watch here](https://www.youtube.com/watch?v=EmYpOogU7Lc) | [Presentation](https://github.com/HOPE-MICROELECTRONICS/training/blob/main/ConnectWithHopeRF_2025/HopeRF%20Digital%20Isolator%20Introduction_v1.0.pdf)
+| **Matter** | [Watch here](https://www.youtube.com/watch?v=Ofj3je62vAE) | [Presentation](https://github.com/HOPE-MICROELECTRONICS/training/blob/main/ConnectWithHopeRF_2025/HOPERF%20Matter%20Soution%20Introduction.pdf)
 
 ---
 
